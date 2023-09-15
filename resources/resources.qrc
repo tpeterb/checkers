@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>dark_checker_man.png</file>
+        <file>dark_checker_man-removebg.png</file>
+        <file>white_checker_man.png</file>
+        <file>white_checker_man-removebg.png</file>
+        <file>dark_checker_king.png</file>
+        <file>dark_checker_king-removebg.png</file>
+        <file>white_checker_king.png</file>
+        <file>white_checker_king-removebg.png</file>
+    </qresource>
+</RCC>
